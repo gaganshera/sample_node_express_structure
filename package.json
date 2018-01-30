@@ -1,0 +1,32 @@
+{
+  "name": "enc-dec",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "1.5.2",
+    "cors": "^2.8.4",
+    "express": "4.13.2",
+    "express-fileupload": "0.0.5",
+    "forever-monitor": "1.2.3",
+    "guid": "0.0.12",
+    "method-override": "^2.3.10",
+    "moment": "^2.20.1",
+    "moment-timezone": "^0.5.14",
+    "mongoose": "4.6.1",
+    "q": "^1.4.1",
+    "underscore": "^1.8.3",
+    "winston": "1.0.1"
+  },
+  "devDependencies": {},
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "apidoc": {
+    "title": "Encryption Decryption Module",
+    "url": "http://api.brokeragestaging.gaadi.com/api/v1"
+  }
+}
