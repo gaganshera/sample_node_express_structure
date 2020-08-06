@@ -9,7 +9,7 @@
     "body-parser": "1.5.2",
     "cors": "^2.8.4",
     "express": "4.13.2",
-    "express-fileupload": "0.0.5",
+    "express-fileupload": "1.1.9",
     "forever-monitor": "1.2.3",
     "guid": "0.0.12",
     "method-override": "^2.3.10",
